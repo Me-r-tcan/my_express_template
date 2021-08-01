@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "myPrivateKey",
+  "db": "mongodb://localhost/parcel_finder"
+}

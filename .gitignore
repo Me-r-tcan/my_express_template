@@ -1,0 +1,9 @@
+node_modules/
+coverage/
+config/production.json
+
+startup/images
+
+.vscode/
+
+**/*.log
