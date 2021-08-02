@@ -1,5 +1,5 @@
 {
-  "name": "parcel_finder_server",
+  "name": "express_and_mongo",
   "version": "1.0.0",
   "description": "This README would normally document whatever steps are necessary to get your application up and running.",
   "main": "index.js",
@@ -7,16 +7,18 @@
     "test": "tests"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://neocrea@bitbucket.org/neocrea/parcel_finder_server.git"
+    "url": "git+https://github.com/Me-r-tcan/my_express_template.git"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://bitbucket.org/neocrea/parcel_finder_server#readme",
+  "bugs": {
+    "url": "https://github.com/Me-r-tcan/my_express_template/issues"
+  },
+  "homepage": "https://github.com/Me-r-tcan/my_express_template#readme",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "compression": "^1.7.4",
